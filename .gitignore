@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# env files (do not commit secrets)
+.env
+bfhl-api/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
